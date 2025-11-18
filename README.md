@@ -1,4 +1,4 @@
-# 😄 Dad Jokes Generator
+#  Jokes Generator
 
 A fun and interactive web application that fetches random dad jokes from an external API. This project serves as a practical exercise for mastering asynchronous JavaScript operations, API integration, and project planning.
 
